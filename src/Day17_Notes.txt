@@ -1,0 +1,16 @@
+******What is cucumber framework?
+-Cucumber is a BDD framework
+****Why did you use cucumber?
+-Reusable feature files
+-Understandable feature files even for non technical people
+
+1.Feature Files are used to describe the behaviour of the application
+2. It is written Gherkin language
+      -Feature
+      -Scenario
+      -Scenario Outline
+      -Example
+      -Background
+      -Given, When, And, Then,But,*
+      -@Tag
+--------------------------------------------------------
